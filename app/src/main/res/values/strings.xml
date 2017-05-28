@@ -1,0 +1,51 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Chicago Tour Guide</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="caption_tours">Tours and Attractions</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="caption_dining">Dining</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="caption_art">Arts and Culture</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="caption_shop">Shopping</string>
+
+    <string name="name_tours_skydeck">Sky Deck</string>
+    <string name="desc_tours_skydeck">From the 103rd floor, look out over 4 states and the Windy Citys urban sprawl, and then test your vertigo on a glass balcony to peer down at the streets and skyscrapers of Chicago beneath your feet.</string>
+    <string name="name_tours_navypier">Navy Pier</string>
+    <string name="desc_tours_navypier">Navy Pier is an iconic city landmark inspiring discovery and wonder.</string>
+
+    <string name="name_tours_52eighty">52eighty</string>
+    <string name="desc_tours_52eighty">52eighty, on the 29th floor of the MileNorth hotel, is a rooftop bar with a sleek indoor lounge and enclosed outdoor patio.</string>
+    <string name="name_tours_berghoff">Berghoff</string>
+    <string name="desc_tours_berghoff">The Berghoff name has been synonymous with superb food, family tradition, and hospitality excellence in Chicago since 1898, shortly after the city was born.</string>
+
+    <string name="name_tours_adler">Adler Planetarium</string>
+    <string name="desc_tours_adler">The Adler Planetarium—Americas first planetarium—is more than a museum; it is a laboratory, a classroom, and a community exploring the Universe together.</string>
+    <string name="name_tours_art">Art Institute of Chicago</string>
+    <string name="desc_tours_art">The Art Institute of Chicago, founded in 1879 and located in Chicagos Grant Park, is one of the oldest and largest art museums in the United States. Recognized for its curatorial efforts and popularity among visitors, the museum hosts approximately 1.5 million guests annually.</string>
+
+    <string name="name_tours_n900">900 North Michigan Shops</string>
+    <string name="desc_tours_n900">900 North Michigan Shops is a visually stunning and highly desired shopping destination that resides on the north end of Chicago’s vibrant Magnificent Mile.</string>
+    <string name="name_tours_china">Chicago Chinatown</string>
+    <string name="desc_tours_china">Sample some exotic foods, affordable gifts and goods, freshly made herbs and teas, and of course traditional fun.</string>
+
+</resources>
