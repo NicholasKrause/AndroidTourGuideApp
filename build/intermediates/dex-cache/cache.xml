@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\neodigm\.android\build-cache\658b760b7a0958a8da1e8df85aa9b8ee70fe108d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\neo\neos_proj\2017\NK_GIT_APPS\AndroidTourGuideApp\app\build\intermediates\pre-dexed\debug\classes_69b0ddccf1ec966a1cd094bdb218cf762969021f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\neodigm\.android\build-cache\902ec69acde711122f7425efc7b072102fea49c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\neo\neos_proj\2017\NK_GIT_APPS\AndroidTourGuideApp\app\build\intermediates\pre-dexed\debug\classes_e2f51ea46a8dcbc5adb202aa3091fe39e81debc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\neodigm\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\neo\neos_proj\2017\NK_GIT_APPS\AndroidTourGuideApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_689de22523a8cd1d8900da9ee79e4715bd634861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\neodigm\.android\build-cache\60ae6af7c36745b4c0cfbced8d7728cb5f47da1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\neo\neos_proj\2017\NK_GIT_APPS\AndroidTourGuideApp\app\build\intermediates\pre-dexed\debug\classes_21d7fb89a3e0395c0014ad1e2890aed95c918b5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\neodigm\.android\build-cache\60ae6af7c36745b4c0cfbced8d7728cb5f47da1e\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\neo\neos_proj\2017\NK_GIT_APPS\AndroidTourGuideApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_a31f5ba8d2da7d6d637178ec1c849f1f84728213.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\neodigm\.android\build-cache\4ff9f68b5155bb17fbb3b59ba392717d1491926e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\neo\neos_proj\2017\NK_GIT_APPS\AndroidTourGuideApp\app\build\intermediates\pre-dexed\debug\classes_58475259d1a65e615bd3ea9010975504410211a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\neodigm\.android\build-cache\bf21d022a027a38b1a5907ad08a5d8621cd3a793\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\neo\neos_proj\2017\NK_GIT_APPS\AndroidTourGuideApp\app\build\intermediates\pre-dexed\debug\classes_436af7c8a64973c3e4ff5ff77b620d4e46d30f5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\neodigm\.android\build-cache\39963e02cdd77b58badf1216325f6efc477388d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\neo\neos_proj\2017\NK_GIT_APPS\AndroidTourGuideApp\app\build\intermediates\pre-dexed\debug\classes_59f4b680e563c9a10d096bc628d5a07887faf17a.jar" />
+    </item>
+
+</items>
